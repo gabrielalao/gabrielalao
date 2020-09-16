@@ -5,6 +5,10 @@ You don't just need a website. You need a product that makes people want to stic
 
 Whether you're a client trying to meet specific business goals with your web presence or an agency wanting to provide your clients with the best solutions, I am here to be your partner.
 
+# About me
+
+I have experience working in a Tech Lead position, leading the front end side of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
+
 ## Programming Languages:
 
 HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
@@ -61,5 +65,3 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - SHOULD-DO responsibility
 - GOOD to BETTER, BETTER to BEST approach
 - NON-STOPPING communication
-
-I have experience working in a Tech Lead position, leading the front end side of high impact projects and setting the standards and best practices for other developers to collaborate better with each other.
