@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## This free Portfolio template is design flow is brought to you from  professional portfolio designs from top leading freelance platforms for software engineers
+## This free professional portfolio design from top leading freelance platforms for software engineers
 
 ## Download, Implement, Support and Contribute to further development reach out to gabrieldeveloper1@gmail.com for more info
