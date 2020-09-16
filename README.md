@@ -22,7 +22,7 @@ Skills:
 - Database | MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
 
-Experience:
+## Experience:
 • Front-end development
 • Back-end development
 • eCommerce development
