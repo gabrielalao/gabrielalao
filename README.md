@@ -5,10 +5,11 @@ You don't just need a website. You need a product that makes people want to stic
 
 Whether you're a client trying to meet specific business goals with your web presence or an agency wanting to provide your clients with the best solutions, I am here to be your partner.
 
-Programming Languages:
+## Programming Languages:
+
 HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 
-Skills:
+## Skills:
 - Vue, Vex, Vuetify, Mixins, Nuxt
 - React | Redux, Mobx, Flux | Thunk, Saga | React Hooks | Next, Gatsby
 - AngularJS, Angular2+, NgRx
@@ -23,23 +24,35 @@ Skills:
 - REST API | GraphQL
 
 ## Experience:
+
 • Front-end development
+
 • Back-end development
+
 • eCommerce development
+
 • Marketplace development
+
 • Search Engine Optimization
+
 • Architecture database schema
+
 • AWS - EC2, S3, RDS, DynamoDB, CloudFront, Cognito, Lambda
-• GCP, Azure, Heroku
-• GoDaddy, Digital Ocean
+
+• GCP, Azure, Heroku, AWS, Godaddy, GitHub, Digital Ocean
+
 • Firebase - Realtime Database, Firestore, Functions, Hosting
+
 • Deploying to clouds; ongoing CI/CD DevOps
+
 • Docker and container orchestration tools
+
 • Stripe APIs for marketplace (Standard and Connect) billing and subscription integrations
-• NPM, Webpack, Gulp, Browserify, Babel, Eslint
-• BDD, TDD
-• Git - Version Control | Github, Gitlab, Bitbucket
-• Jira, Trello, Asana, Slac k
+
+• NPM, Webpack, Gulp, Browserify, Babel, Eslint, BDD, TDD
+
+• Git - Version Control | Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
+
 
 Furthermore, my attitudes and manners towards projects and customers have added flavor to my professionalism:
 
