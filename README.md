@@ -1,5 +1,5 @@
 
-## Full-Stack Javascript (Vue, React, Angular, Node) / Wordpress developer.
+## Premium Web &  Mobile APP Development Expert
 
 You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
