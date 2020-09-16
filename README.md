@@ -7,7 +7,7 @@ Whether you're a client trying to meet specific business goals with your web pre
 
 # About me
 
-I have experience working in a Tech Lead position, leading the front end side of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
+I have experience working in a Tech Lead position, leading the front end and back end sides of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
 
 ## Programming Languages:
 
