@@ -67,7 +67,7 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - NON-STOPPING communication
 
 
-# Learn more
+# Contact
 
 https://www.linkedin.com/in/gabrielalao/
 
