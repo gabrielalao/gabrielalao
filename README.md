@@ -41,7 +41,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 
 • Architecture database schema
 
-• AWS - EC2, S3, RDS, DynamoDB, CloudFront, Cognito, Lambda
+• EC2, S3, RDS, DynamoDB, MySQL, CloudFront, Cognito, Lambda
 
 • GCP, Azure, Heroku, AWS, Godaddy, GitHub, Digital Ocean
 
