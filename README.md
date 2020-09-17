@@ -85,4 +85,6 @@ https://www.linkedin.com/in/gabrielalao/
 
 gabrieldeveloper1@gmail.com
 
+# Collaborate
+
 https://join.slack.com/t/thewebgurusllc/shared_invite/zt-hrt4efds-zxYtHJ70JUSR0vFb24A_jw
