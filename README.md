@@ -75,6 +75,6 @@ https://www.linkedin.com/in/gabrielalao/
 
 https://www.upwork.com/fl/gabrielalao3
 
-mailto:gabrieldeveloper1@gmail.com
+gabrieldeveloper1@gmail.com
 
 https://join.slack.com/t/thewebgurusllc/shared_invite/zt-hrt4efds-zxYtHJ70JUSR0vFb24A_jw
