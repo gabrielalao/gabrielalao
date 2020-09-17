@@ -69,6 +69,8 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 
 # Contact
 
+https://zoom.us/j/5145570007?pwd=T0xNQng3bUp3aThqRVJzSzMzeGYxUT09
+
 https://chat.whatsapp.com/Kbv35vj4dcv9ssMZgbu9wb
 
 https://www.linkedin.com/in/gabrielalao/
