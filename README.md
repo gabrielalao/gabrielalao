@@ -69,7 +69,7 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 
 # Discuss a Project
 
-https://zoom.us/j/5145570007?pwd=T0xNQng3bUp3aThqRVJzSzMzeGYxUT09
+https://zoom.us/j/5145570007
 
 
 # Hire me
@@ -85,6 +85,3 @@ https://www.linkedin.com/in/gabrielalao/
 
 gabrieldeveloper1@gmail.com
 
-# Collaborate
-
-https://join.slack.com/t/thewebgurusllc/shared_invite/zt-hrt4efds-zxYtHJ70JUSR0vFb24A_jw
