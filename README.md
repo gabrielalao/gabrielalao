@@ -65,3 +65,8 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - SHOULD-DO responsibility
 - GOOD to BETTER, BETTER to BEST approach
 - NON-STOPPING communication
+
+
+# Connect with me on LinkedIn 
+
+https://www.linkedin.com/in/gabrielalao/
