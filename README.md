@@ -18,10 +18,10 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 - React | Redux, Mobx, Flux | Thunk, Saga | React Hooks | Next, Gatsby
 - AngularJS, Angular2+, NgRx
 - Node | Express | Nest | Fastify
-- PHP | Laravel, Lumen | Symfony | CodeIgniter | Yii | CakePHP
+- PHP | Laravel, Lumen | Symfony | CodeIgniter | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
 - HTML, CSS, SCSS, JavaScript | jQuery | Bootstrap | Sass, Less | Material UI | TailwindCss
 - CMS | WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
-- E-commerce | WooCommerce | Shopify | BigCommerce | Magento
+- E-commerce | WooCommerce | Shopify | BigCommerce | Magento |Squarespace | Bigcommerce | Bigcartel
 - C# | .NET MVC, Core | ASP.NET
 - Python | Django | Flask
 - Database | MySQL | MongoDB | Postgres | DynamoDB | Firebase
@@ -43,7 +43,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 
 • EC2, S3, RDS, DynamoDB, MySQL, CloudFront, Cognito, Lambda
 
-• GCP, Azure, Heroku, AWS, Godaddy, GitHub, Digital Ocean
+• GCP, Azure, Heroku, AWS, Godaddy, GitHub, Digital Ocean, Siteground, Bluehost, Cpanel, WHM
 
 • Firebase - Realtime Database, Firestore, Functions, Hosting
 
