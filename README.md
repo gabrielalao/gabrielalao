@@ -69,8 +69,12 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 
 # Contact
 
+https://chat.whatsapp.com/Kbv35vj4dcv9ssMZgbu9wb
+
 https://www.linkedin.com/in/gabrielalao/
 
 https://www.upwork.com/fl/gabrielalao3
+
+
 
 https://join.slack.com/t/thewebgurusllc/shared_invite/zt-hrt4efds-zxYtHJ70JUSR0vFb24A_jw
