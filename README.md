@@ -67,14 +67,17 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - NON-STOPPING communication
 
 
+# Discuss a Project
+
+https://zoom.us/j/5145570007?pwd=T0xNQng3bUp3aThqRVJzSzMzeGYxUT09
+
+
 # Hire me
 
 https://www.upwork.com/fl/gabrielalao3
 
 
-# Contact
-
-https://zoom.us/j/5145570007?pwd=T0xNQng3bUp3aThqRVJzSzMzeGYxUT09
+# Contacts
 
 https://chat.whatsapp.com/Kbv35vj4dcv9ssMZgbu9wb
 
