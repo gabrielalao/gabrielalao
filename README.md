@@ -67,6 +67,8 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - NON-STOPPING communication
 
 
-# Connect with me on LinkedIn 
+# Get Started
 
 https://www.linkedin.com/in/gabrielalao/
+
+https://www.upwork.com/fl/gabrielalao3
