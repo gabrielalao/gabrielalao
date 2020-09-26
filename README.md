@@ -37,7 +37,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 
 • Marketplace development
 
-• Search Engine Optimization
+• API development
 
 • Architecture database schema
 
