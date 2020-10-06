@@ -64,7 +64,7 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 - WILL-DO willingness
 - SHOULD-DO responsibility
 - GOOD to BETTER, BETTER to BEST approach
-- NON-STOPPING communication
+- Communication
 
 
 # Discuss a Project
