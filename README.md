@@ -1,5 +1,5 @@
 
-##  Happy Thanksgiving... so much to be thankful for year 2020 been a hard one by we give thanks for everything 
+##  Happy Thanksgiving... so much to be thankful for year 2020 been a hard one but we give thanks for everything 
 
 You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
