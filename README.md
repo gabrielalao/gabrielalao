@@ -18,7 +18,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 - React | Redux, Mobx, Flux | Thunk, Saga | React Hooks | Next, Gatsby
 - AngularJS, Angular2+, NgRx
 - Node | Express | Nest | Fastify
-- PHP | Laravel, Lumen | Symfony | CodeIgniter | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
+- PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
 - HTML, CSS, SCSS, JavaScript | jQuery | Bootstrap | Sass, Less | Material UI | TailwindCss
 - CMS | WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
 - E-commerce | WooCommerce | Shopify | BigCommerce | Magento |Squarespace | Bigcommerce | Bigcartel
