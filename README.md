@@ -11,11 +11,13 @@ I have experience working in a Tech Lead position, leading the front end and bac
 
 ## Programming Languages:
 
-HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
+HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 
 ## Skills:
 - Vue, Vex, Vuetify, Mixins, Nuxt
 - React | Redux, Mobx, Flux | Thunk, Saga | React Hooks | Next, Gatsby
+- React Native | Xamarin
+- Java | Kotlin | Android Studio, Swift | Swift UI | Xcode
 - AngularJS, Angular2+, NgRx
 - Node | Express | Nest | Fastify
 - PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
@@ -30,6 +32,8 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python
 ## Experience:
 
 • Front-end development
+
+• Mobile development
 
 • Back-end development
 
