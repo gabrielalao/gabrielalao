@@ -25,7 +25,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 - HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
 - WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
 - WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
-- C# | .NET | MVC, Core | ASP.NET
+- C# | .NET | ASP.NET
 - Python | Django | Flask
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
@@ -56,7 +56,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 
 • NPM, Webpack, Gulp, Browserify, Babel, Eslint, BDD, TDD
 
-• Git - Version Control | Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
+• Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
 
 
 Furthermore, my attitudes and manners towards projects and customers is a flavor to my professionalism:
