@@ -49,7 +49,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 
 • GCP, Azure, Heroku, AWS, Godaddy, GitHub, Digital Ocean, Siteground, Bluehost, Cpanel, WHM
 
-• Firebase - Realtime Database, Firestore, Functions, Hosting
+• Firebase, Realtime Database, Firestore, Functions & Hosting
 
 • Deploying to clouds; ongoing CI/CD DevOps
 
@@ -76,7 +76,7 @@ Furthermore, my attitudes and manners towards projects and customers have added 
 https://zoom.us/j/5145570007
 
 
-# Hire me
+# Direct Hire
 
 https://www.upwork.com/fl/gabrielalao3
 
