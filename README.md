@@ -73,14 +73,8 @@ Furthermore, my attitudes and manners towards projects and customers is a flavor
 https://zoom.us/j/5145570007
 
 
-# Direct Hire
-
-https://www.upwork.com/fl/gabrielalao3
-
-
 # Contacts
 
-https://chat.whatsapp.com/Kbv35vj4dcv9ssMZgbu9wb
 
 https://www.linkedin.com/in/gabrielalao/
 
