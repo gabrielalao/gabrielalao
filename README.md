@@ -68,15 +68,19 @@ Furthermore, my attitudes and manners towards projects and customers is a flavor
 - Communication
 
 
-# Discuss a Project
+# Upwork
+
+https://www.upwork.com/freelancers/~013d6b4d91919438ce
+
+# Zoom
 
 https://zoom.us/j/5145570007
 
-
-# Contacts
-
+# LinkedIn
 
 https://www.linkedin.com/in/gabrielalao/
+
+# Email
 
 gabrieldeveloper1@gmail.com
 
