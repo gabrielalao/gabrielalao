@@ -1,5 +1,5 @@
 
-## Gabriel Alao
+## Full Stack Software Engineer
 
 You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
@@ -25,7 +25,6 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 - HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
 - WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
 - WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
-- C# | .NET | ASP.NET
 - Python | Django | Flask
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
@@ -59,22 +58,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 • Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
 
 
-Furthermore, my attitudes and manners towards projects and customers is a flavor to my professionalism:
 
-- CAN-DO attitude
-- WILL-DO willingness
-- SHOULD-DO responsibility
-- GOOD to BETTER, BETTER to BEST approach
-- Communication
-
-
-# Upwork
-
-https://www.upwork.com/freelancers/~013d6b4d91919438ce
-
-# Zoom
-
-https://zoom.us/j/5145570007
 
 # LinkedIn
 
