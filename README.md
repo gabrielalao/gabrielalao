@@ -28,8 +28,11 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 - Python | Django | Flask
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
+- Solidity
 
 ## Experience:
+
+• Ethereum
 
 • Front-end development
 
