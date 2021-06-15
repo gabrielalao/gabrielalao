@@ -11,7 +11,7 @@ I have experience working in a Tech Lead position, leading the front end and bac
 
 ## Programming Languages:
 
-HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
+HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift | Solidity
 
 ## Skills:
 
@@ -32,7 +32,7 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 
 ## Experience:
 
-• Ethereum
+• Blockchain development
 
 • Front-end development
 
