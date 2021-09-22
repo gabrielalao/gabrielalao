@@ -7,25 +7,25 @@ Whether you're a client trying to meet specific business goals with your web pre
 
 # About me
 
-I have experience working in a Tech Lead position, leading the front end and back end sides of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
+I have experience working in a Tech Lead position, leading the back&front end and back end sides of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
 
 ## Programming Languages:
 
-HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift | Solidity
+Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Solidity
 
 ## Skills:
 
+- Python | Django | Flask
+- Node | Express | Nest | Fastify
+- PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
 - Vue | Vex | Vuetify | Mixins|  Nuxt
 - React | Redux | Mobx | Flux | Thunk | Saga | React Hooks | Next| Gatsby
 - React Native | Xamarin
 - Java | Kotlin | Android Studio| Swift | Swift UI | Xcode
 - AngularJS | Angular2+ |  NgRx
-- Node | Express | Nest | Fastify
-- PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
 - HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
 - WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
 - WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
-- Python | Django | Flask
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
 - Solidity
