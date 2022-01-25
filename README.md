@@ -3,7 +3,7 @@
 
 You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
-Whether you're a client trying to meet specific business goals with your web presence or an agency wanting to provide your clients with the best solutions, I am here to be your partner.
+Whether you're a client trying to meet specific business goals with your web presence or an agency wanting to provide your clients with the best solution, I am here to be your partner.
 
 # About me
 
@@ -24,7 +24,7 @@ Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Soli
 - Java | Kotlin | Android Studio| Swift | Swift UI | Xcode
 - AngularJS | Angular2+ |  NgRx
 - HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
-- WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
+- WordPress | Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
 - WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
@@ -44,7 +44,7 @@ Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Soli
 
 • Marketplace development
 
-• API development
+• API development and 3rd Party API integrations
 
 • Architecture database schema
 
