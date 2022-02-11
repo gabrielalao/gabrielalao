@@ -11,7 +11,7 @@ I have experience working in a Tech Lead position, leading the back&front end an
 
 ## Programming Languages:
 
-Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Solidity
+Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift 
 
 ## Skills:
 
@@ -28,7 +28,7 @@ Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Soli
 - WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
 - MySQL | MongoDB | Postgres | DynamoDB | Firebase
 - REST API | GraphQL
-- Solidity
+
 
 ## Experience:
 
@@ -50,22 +50,12 @@ Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Soli
 
 • Firebase, Realtime Database, Firestore, Functions & Hosting
 
-• Deploying to clouds; ongoing CI/CD DevOps
-
 • Docker and container orchestration tools
 
 • Stripe APIs for marketplace (Standard and Connect) billing and subscription integrations
 
-• NPM, Webpack, Gulp, Browserify, Babel, Eslint, BDD, TDD
-
 • Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
 
-
-
-
-# LinkedIn
-
-https://www.linkedin.com/in/gabrielalao/
 
 # Email
 
