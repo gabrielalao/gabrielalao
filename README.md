@@ -13,6 +13,7 @@ Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift
 
 ## Skills:
 
+- Project Management
 - Python | Django | Flask
 - Node | Express | Nest | Fastify
 - PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
