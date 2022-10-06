@@ -5,11 +5,11 @@ You don't just need a website. You need a product that makes people want to stic
 
 # About me
 
-I have experience working in a Tech Lead position, leading the back & front end and back end sides of high impact projects and setting the standards with best practices for other developers to collaborate better with each other.
+Full-stack web engineer with 12 years of experience in various business domains, including eCommerce, dating apps, specialty healthcare, financial/engineering software, and more. As a tech lead, Gabriel's guided the back- and front-end sides of high-impact projects and established best practice standards so developers could collaborate effectively. Gabriel loves writing code and spends time every day learning new languages, frameworks,  workflow optimizations, etc.
 
 ## Programming Languages:
 
-Python | Java | PHP | C# | CSS | JavaScript | TypeScript | Kotlin | Swift | Dart
+JavaScript | Java | PHP | C# | CSS | Pytho | TypeScript | Kotlin | Swift | Dart
 
 ## Skills:
 
