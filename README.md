@@ -1,11 +1,8 @@
 
-## Full-Stack Software Engineer
+## Web & Mobile Full-Stack Software Engineer
 
-You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
-# About
-
-Full-Stack Software Engineer with over 12 years of experience in various business domains, including eCommerce, dating apps, specialty healthcare, financial/engineering software, and more. As a tech lead, I have guided the back- and front-end sides of high-impact projects and established best practice standards so developers could collaborate effectively. I love writing code and I spend time every day learning new languages, frameworks,  workflow optimizations, etc.
+Web and Mobile Full-Stack Software Engineer with over 12 years of experience in various business domains, including eCommerce, dating apps, specialty healthcare, financial/engineering software, and more. As a tech lead, I have guided the back- and front-end sides of high-impact projects and established best practice standards so developers could collaborate effectively. I love writing code and I spend time every day learning new languages, frameworks,  workflow optimizations, etc.
 
 ## Programming Languages:
 
