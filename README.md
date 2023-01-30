@@ -109,6 +109,9 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
 - Web Developer (JANUARY 2023 - PRESENT)
   
   https://www.testdome.com/certificates/7b88ce5a968b46f1af66289f53f0ce47
+- HTML/CSS Certificate (JANUARY 2023 - PRESENT)
+
+  https://www.testdome.com/certificates/6ef03f38f8214e15bb5c989fb654bec0
 - React Native Developer (JANUARY 2023 - PRESENT)
   
   https://www.testdome.com/certificates/005d3ea3a7dc4a56b31a38627e919f3a
