@@ -6,7 +6,13 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
 
 
 ## Employment
-
+- Cross-Platform Mobile Developer (Radar, 2022-2023)
+  - Implemented new features to React Native, Flutter, Capacitor and Cordova SDKs
+  - Implemented QA Tests to React Native, Flutter, Capacitor and Cordova SDKS
+  - Updated example apps to React Native, Flutter, Capacitor and Cordova SDKs
+  - Maintained the CI/CD and Published React Native, Flutter, Capacitor and Cordova SDKs
+  - Collaborated with mobile dev team on the agile/scrum board (Linear, Github)
+  - Updated the documentation to SDKs
 - Flutter Developer (TattMe LLC, 2022 - 2022)
   - Implemented Stripe integration for payment flow, including checkout, payout, and issuing refunds for a mobile app for locating tattoo artists.
   - Collaborated with back-end developer to build the APIs.
