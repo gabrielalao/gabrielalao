@@ -109,6 +109,7 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
   Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 
 ## Certifications
+
 - JavaScript Developer (JANUARY 2023 - PRESENT)
   
   https://www.testdome.com/certificates/4e481ee6cca74257a40282ed4e52ae31
@@ -125,9 +126,9 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
   
   https://www.testdome.com/certificates/5c2f949a03664191aafbce6204dd1ccc
 - Project Management Professional (PMP)(MAY 2022 - PRESENT)
-  
   PMI
-
+  
+- AWS Certified Developer- Associate (AWS)(March 2023 - PRESENT)
 
 # Email
 
