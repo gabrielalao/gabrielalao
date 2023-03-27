@@ -5,7 +5,8 @@
 Gabriel is a full-stack web engineer with over 12 years of experience in various business domains, including eCommerce, dating apps, specialty healthcare, financial/engineering software, and more. As a tech lead, Gabriel's guided the back- and front-end sides of high-impact projects and established best practice standards so developers could collaborate effectively. Gabriel loves writing code and spends time every day learning new languages, frameworks,  workflow optimizations, etc.
 
 
-## Employment
+## Employment :
+
 - Cross-Platform Mobile Developer (Radar, 2022-2023)
   - Implemented new features to React Native, Flutter, Capacitor and Cordova SDKs
   - Implemented QA Tests to React Native, Flutter, Capacitor and Cordova SDKS
@@ -108,7 +109,7 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
 
   Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 
-## Certifications
+## Certifications :
 
 - JavaScript Developer (JANUARY 2023 - PRESENT)
   
@@ -131,33 +132,16 @@ Gabriel is a full-stack web engineer with over 12 years of experience in various
 - AWS Certified Developer- Associate (AWS)(March 2023 - PRESENT)
 
 
-Publications: 
+#  Publications: 
 
-<style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7045966869215789059" target="_blank">Subscribe on LinkedIn</a>
 
 
-# Email
+# Email:
 
 gabrieldeveloper1@gmail.com
 
-# Calendar
+# Calendar:
 
 https://calendly.com/gabrielalao
 
