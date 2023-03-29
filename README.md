@@ -2,7 +2,7 @@
 ## Full-Stack Engineer
 
 
-Gabriel is a full-stack web engineer with over 12 years of experience in various business domains, including eCommerce, dating apps, specialty healthcare, financial/engineering software, and more. As a tech lead, Gabriel's guided the back- and front-end sides of high-impact projects and established best practice standards so developers could collaborate effectively. Gabriel loves writing code and spends time every day learning new languages, frameworks,  workflow optimizations, etc.
+Experienced Fullstack Engineer with a Bachelors degree in Computer Science. Currently employed at Toptal, where I have demonstrated proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
 ## Employment :
