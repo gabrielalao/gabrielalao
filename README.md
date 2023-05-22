@@ -2,7 +2,7 @@
 ## Full-Stack Engineer
 
 
-Experienced Fullstack Engineer with a Bachelors degree in Computer Science. Currently employed at Toptal, where I have demonstrated proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.
+Experienced Fullstack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
 ## Work History :
