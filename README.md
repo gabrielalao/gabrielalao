@@ -1,8 +1,11 @@
 
 ## React, Next.js,  React Native, Angular, Node.js Developer
 
+Software Engineer with over 10 years of experience in developing web and mobile applications using various technologies and frameworks. I’m currently working at Toptal, a global network of top talent in business, design, and technology, where I am responsible for designing, developing, and maintaining web applications using JavaScript technologies for both the front-end and back-end.
 
-Experienced Fullstack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, PHP, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
+In addition to my role at Toptal, I also have other concurrent projects as a Cross-Platform Mobile Developer, a Flutter Expert, where I use my skills in Dart, Flutter, React Native, and other frameworks and libraries to create engaging and responsive mobile apps for different platforms and devices. I’m  passionate about continuous learning and staying up-to-date with emerging technologies, and I have earned multiple certifications, such as the Arc Certified Remote Developer and the JavaScript TestDome. I enjoy collaborating with cross-functional teams and delivering high-quality software solutions that meet the needs and expectations of the clients and users.
+
+Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, PHP, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
 ## Work History :
