@@ -1,5 +1,6 @@
+##  Software Engineering Manager
 
-## React, Next.js,  React Native, Angular, Node.js Developer
+## React, Next.js,  React Native, Angular, Node.js Developer, PHP, Java
 
 Software Engineer with over 10 years of experience in developing web and mobile applications using various technologies and frameworks. I’m currently working at Toptal, a global network of top talent in business, design, and technology, where I am responsible for designing, developing, and maintaining web applications using JavaScript technologies for both the front-end and back-end.
 
