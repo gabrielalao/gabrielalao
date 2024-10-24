@@ -1,4 +1,4 @@
-##  Software Engineering
+##  Software Engineer
 
 ## Drupal, Bigcommerce, React, Next.js,  React Native, Angular, Node.js Developer, PHP, Java, Project Management, People Management, Mentor
 
