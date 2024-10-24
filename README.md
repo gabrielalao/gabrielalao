@@ -1,79 +1,272 @@
-##  Software Engineering Manager
+##  Software Engineering
 
-## React, Next.js,  React Native, Angular, Node.js Developer, PHP, Java, Project Management, People Management, Mentor
+## Drupal, Bigcommerce, React, Next.js,  React Native, Angular, Node.js Developer, PHP, Java, Project Management, People Management, Mentor
 
-Software Engineer with over 10 years of experience in developing web and mobile applications using various technologies and frameworks. I’m currently working at Toptal, a global network of top talent in business, design, and technology, where I am responsible for designing, developing, and maintaining web applications using JavaScript technologies for both the front-end and back-end.
+Experienced ecommerce Developer with over 12 years of expertise in developing and integrating marketplace applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
 
-In addition to my role at Toptal, I also have other concurrent projects as a Cross-Platform Mobile Developer, a Flutter Expert, where I use my skills in Dart, Flutter, React Native, and other frameworks and libraries to create engaging and responsive mobile apps for different platforms and devices. I’m  passionate about continuous learning and staying up-to-date with emerging technologies, and I have earned multiple certifications, such as the Arc Certified Remote Developer and the JavaScript TestDome. I enjoy collaborating with cross-functional teams and delivering high-quality software solutions that meet the needs and expectations of the clients and users.
 
-Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, PHP, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
+Skilled in PHP, Drupal, JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, Bigcommerce, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
+
+
+## Technical Skills
+
+Languages: JavaScript, TypeScript, PHP, HTML, CSS
+
+Frameworks/Libraries: Drupal, React.js, Node.js, Express.js, AngularJS, Vue.js, Next.js
+
+E-commerce Platforms: Bigcomerce, Shopify, WooCommerce, Magento
+
+API Integration: RESTful APIs, GraphQL, AWS Lambda, Payment Gateways (Authorize.net)
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools/Technologies: AWS (S3, Lambda, EC2), Docker, Git, Jira, Slack
+
+UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
+
 
 
 ## Work History :
 
-# Senior Software Engineering Manager
+Professional Experience
+Lead Drupal  Developer
+Toptal LLC, Remote
+May 2018 - Present
 
-Currently serving as a Software Engineering Manager at Toptal, a prestigious global network connecting top talent in business, design, and technology. My role encompasses a myriad of responsibilities aimed at optimizing team performance, delivering high-quality software solutions, and fostering a collaborative environment.
+Site Maintenance and Updates:
 
-Conduct daily stand-ups and team meetings to guide project direction and prioritize tasks.
-Mentor team members, providing technical guidance and support to enhance their skills and foster growth.
+Regularly update Drupal core and contributed modules.
 
-Collaborate with cross-functional teams to align project goals with company objectives, facilitating successful project execution.
+Monitor and fix security vulnerabilities.
 
-Oversee project planning, reviewing timelines and milestones while identifying potential technical risks.
+Theme Development:
 
-Ensure adherence to coding standards through regular code reviews and quality assurance processes.
+Customize or create themes to match branding guidelines.
 
-Address and resolve technical issues, debugging complex problems collaboratively with team members.
+Implement responsive design for mobile compatibility.
 
-Manage recruitment processes, including resume reviews, interviews, and developing training plans to nurture talent.
+Module Development:
 
-Communicate project statuses and provide technical updates to stakeholders, ensuring transparency in progress.
+Develop custom modules to extend functionality.
 
-Maintain team documentation and manage budgets and resources effectively to support operational needs.
+Modify existing modules to meet specific business needs.
 
-I take pride in leading by example, driving a positive team culture, and staying committed to delivering software that exceeds client expectations.
+Performance Optimization:
+
+Optimize website performance by implementing caching strategies.
+
+Analyze and improve site load times.
+
+Bug Fixing:
+
+Identify, troubleshoot, and resolve bugs and issues reported by users.
+
+Test and validate fixes in various environments.
+
+Database Management:
+
+Manage and optimize the database for performance.
+
+Implement backup and recovery strategies.
+
+Integrations:
+
+Integrate third-party services (payment gateways, shipping APIs, CRM).
+
+Ensure smooth data flow between systems.
+
+User Management:
+
+Manage user roles and permissions.
+
+Create and maintain user accounts for staff and customers.
+
+Content Management:
+
+Assist in content updates and site maintenance.
+
+Collaborate with content teams to ensure content is properly formatted.
+
+SEO Implementation:
+
+Implement SEO best practices in the site structure and content.
+
+Use modules to manage metadata, sitemaps, and redirects.
+
+Testing and Quality Assurance:
+
+Conduct functional and regression testing of new features.
+
+Collaborate with QA teams to ensure high-quality releases.
+
+Collaboration:
+
+Work with designers, product managers, and other developers in Agile environments.
+
+Participate in daily stand-ups and sprint planning meetings.
+
+Documentation:
+
+Write and maintain technical documentation for custom developments.
+
+Document processes and workflows for future reference.
+
+Monitoring and Analytics:
+
+Set up and monitor web analytics tools to track user behavior.
+
+Analyze data to inform development and marketing strategies.
+
+Customer Support:
+
+Provide technical support for end-users as needed.
+
+Assist in resolving eCommerce-related issues.
+
+## Senior Full-Stack Developer
+
+The Web Gurus LLC, Remote
+January 2014 - April 2018
+
+Developed and maintained the company’s main e-commerce platform using Drupal, Bigcommerce, React.js and Node.js, ensuring seamless user experience and high performance.
+
+Implemented custom features and integrations, including loyalty programs, product recommendation engines, and advanced search functionalities.
+
+Optimized front-end and back-end code for speed and scalability, resulting in a 30% increase in page load times.
+
+Coordinated with cross-functional teams to design and implement new features, track progress, and resolve issues.
+
+Integrates APIs for Drupal with USPS, Ebay, Shopify, Bigcommerce, PayPal, and Stripe.
 
 
-# Software Engineering Team Lead
+## Bigcommerce Developer
 
-The Web Guru's is a leading digital solutions provider specializing in website development, design, and online marketing. During my tenure as a Full Stack Engineer from July 2016 to February 2022, I was responsible for developing and maintaining both the front-end and back-end components of numerous high-traffic web applications.
+# Phone LCD Parts, Remote
+June 2010 - December 2013
 
-Designed and implemented robust web architectures using modern frameworks and languages, ensuring high performance and responsiveness across devices.
+# Store Setup and Configuration:
 
-Collaborated closely with designers and product managers to define user experience and optimize application functionality, leading to a 25% increase in user retention rates.
+Set up new BigCommerce stores, including initial configuration and settings.
 
-Improved application load time by 40% through efficient code optimization and advanced caching strategies.
+Configure payment gateways, shipping options, and tax settings.
 
-Played a key role in transitioning legacy systems to new technology stacks, enhancing system reliability and scalability.
+Theme Development and Customization:
 
-Conducted code reviews and provided mentorship to junior developers, fostering a collaborative and high-quality coding environment.
+Customize existing themes to align with branding and design guidelines.
 
-Implemented RESTful APIs to facilitate seamless data exchange between client and server, improving overall application efficiency.The Web Guru's is a leading digital solutions provider specializing in website development, design, and online marketing. During my tenure as a Full Stack Engineer from July 2016 to February 2022, I was responsible for developing and maintaining both the front-end and back-end components of numerous high-traffic web applications. 
+Develop custom themes using Stencil and Handlebars for unique layouts.
 
-Designed and implemented robust web architectures using modern frameworks and languages, ensuring high performance and responsiveness across devices. Collaborated closely with designers and product managers to define user experience and optimize application functionality, leading to a 25% increase in user retention rates. Improved application load time by 40% through efficient code optimization and advanced caching strategies. 
+App Integration:
 
-Played a key role in transitioning legacy systems to new technology stacks, enhancing system reliability and scalability. Conducted code reviews and provided mentorship to junior developers, fostering a collaborative and high-quality coding environment. Implemented RESTful APIs to facilitate seamless data exchange between client and server, improving overall application efficiency.
+Integrate third-party applications and services (e.g., CRM, ERP, email marketing).
 
-# Software Engineer
+Ensure seamless functionality between BigCommerce and integrated systems.
 
-Phone LCD Parts · Full-timePhone LCD Parts · Full-time
+Performance Optimization:
 
-At Phone LCD Parts, I served as a Software Engineer from May 2012 to June 2016, where I contributed significantly to the development and maintenance of various e-commerce platforms. 
+Optimize website performance and loading times.
 
-Phone LCD Parts is known for providing high-quality phone parts and accessories with a focus on customer satisfaction and digital commerce.
+Implement best practices for caching and image optimization.
 
-Developed and maintained e-commerce platforms using BigCommerce, JavaScript, Node.js, and TypeScript.
+Troubleshooting and Bug Fixing:
 
-Collaborated closely with design and marketing teams to implement user-friendly and visually appealing e-commerce solutions, enhancing the overall user experience.
+Identify and resolve bugs or issues reported by users.
 
-Created custom plugins and extensions for BigCommerce, which improved functionality and user engagement.
+Perform regular testing to ensure site functionality.
 
-Conducted regular performance testing and optimization to ensure high availability and fast response times for the website.
+Content Management:
 
-Integrated various payment gateways, shipping solutions, and third-party APIs, streamlining the checkout process and improving overall operational efficiency.
+Assist with the creation and management of product listings, categories, and pages.
 
-Stayed updated on industry trends and technologies to continuously improve development processes and outcomes.
+Update content as needed to reflect promotions or changes in inventory.
+
+SEO Implementation:
+
+Optimize site structure, metadata, and URLs for search engine visibility.
+
+Implement SEO best practices within the platform.
+
+Analytics and Reporting:
+
+Set up and analyze web analytics tools (e.g., Google Analytics) to track performance.
+
+Create reports on sales, user behavior, and other key metrics.
+
+User Management:
+
+Manage user roles and permissions within the BigCommerce dashboard.
+
+Handle customer account issues and inquiries.
+
+Custom Development:
+
+Develop custom scripts and features to enhance store functionality.
+
+Use the BigCommerce API to create custom solutions.
+
+Collaboration:
+
+Work with designers, marketers, and product teams to implement new features.
+
+Participate in team meetings and Agile sprints for project planning.
+
+Documentation:
+
+Document development processes, integrations, and customizations.
+
+Maintain guides for team members and future reference.
+
+Customer Support:
+
+Provide technical support for clients and users.
+
+Assist with troubleshooting customer-related issues.
+
+Compliance and Security:
+
+Ensure that the store complies with legal requirements (e.g., GDPR).
+
+Monitor security and implement measures to protect customer data.
+
+Training and Support:
+
+Train staff or clients on using BigCommerce features.
+
+Provide ongoing support and guidance for users.
+
+
+
+## Education
+
+Master of Technology - MTech, AI & Cyber Security - 2023-2025
+Turun yliopisto - University of Turku, Finland. 
+
+Bachelor of Science in Computer Science - 2002-2008
+University of Ilorin, Nigeria.
+
+
+
+
+## Projects
+
+Custom Bigcommerce  App for Upsell Recommendations
+
+Developed a Shopify app that dynamically suggests upsell products at checkout, increasing average order value by 20%.
+
+Implemented an intuitive admin panel for merchants to configure recommendations and track performance analytics.
+
+Integrate APIs for USPS, Ebay, Shopify, Bigcommerce, PayPal, Stripe, Affirm and Cashapp
+
+Marketplace Integration for Phone LCD Parts
+Led the integration of a multi-vendor marketplace platform, enabling seamless onboarding and management of third-party sellers.
+Enhanced the platform’s API to support advanced search, filtering, and sorting capabilities.
+Integrate APIs for USPS, Ebay, Shopify, Bigcommerce, PayPal, Stripe, Affirm and Cashapp
+Real-Time Inventory Management System
+Built a real-time inventory management system for a large retailer, integrating with their existing e-commerce platform and warehouse management system.
+Achieved a 50% reduction in stock discrepancies and improved order fulfillment accuracy.
+Integrate APIs for Quickbooks
+
+
 
 
 ## Skills:
