@@ -2,10 +2,10 @@
 
 ## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS 
 
-Experienced ecommerce Developer with over 12 years of expertise in developing and integrating marketplace applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
+Experienced Javascript Developer with over 12 years of expertise in developing and integrating web applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
 
 
-Skilled in PHP, Drupal, JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, Bigcommerce, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
+Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, Bigcommerce, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
 ## Technical Skills
@@ -29,9 +29,8 @@ UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
 ## Work History :
 
 Professional Experience
-Lead Drupal  Developer
 Toptal LLC, Remote
-May 2018 - Present
+May 2021 - Present
 
 Site Maintenance and Updates:
 
@@ -267,45 +266,6 @@ Achieved a 50% reduction in stock discrepancies and improved order fulfillment a
 Integrate APIs for Quickbooks
 
 
-
-
-## Skills:
-
-- Languages
-
-  JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3, Java
-
-- Frameworks
-
-  Flutter, Django, React Native, Redux, Express.js, MUI (Material UI), Tailwind CSS, Next.js, Bootstrap, JSON Web Tokens (JWT), Svelte, NestJS, Angular, MUI CSS, Flask, Jest, Electron, Spring MVC
-
-- Libraries/APIs
-
-  React, Node.js, Google Maps API, WebRTC, REST APIs, Vue, SendGrid API, Socket.IO, jQuery, GitHub API, Shopify API, D3.js, Camera API, Stripe, Stripe API, Stripe Connect, Web3.js, Chart.js, Google Merchant Center API, AWS Amplify, LeafletJS
-
-- Tools
-
-  Slack, GitHub, GitLab, Trello, Git, VS Code, SendGrid, Amazon Cognito, Jira, Amazon CloudWatch, Figma, Android Studio, Xcode, Bitbucket, Webpack
-
-- Paradigms
-
-  Agile Project Management, Scrum, Unit Testing, Test-driven Development (TDD), Mobile Development, REST, Microservices, Agile
-
-- Platforms
-
-  Google Cloud Platform (GCP), Firebase, Mailgun, Android, iOS, Shopify, Apache Arrow, Visual Studio Code, Heroku, Mobile, WordPress, Docker, Mapbox, AWS Lambda, BigCommerce, Amazon Web Services (AWS), Ubuntu, Azure, Netlify, Web
-
-- Storage
-
-  MongoDB, MySQL, Databases, Amazon S3 (AWS S3), Google Cloud, PostgreSQL
-
-- Industry Expertise
-
-  Healthcare, Project Management
-
-- Other
-
-  Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 
 ## Certifications :
 
