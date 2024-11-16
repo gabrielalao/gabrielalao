@@ -1,6 +1,6 @@
-##  Software Engineer
+##  Javascript Engineer
 
-## React, Next.js,  React Native, Angular, Node.js Developer, PHP, Java, Project Management, Symfony & Mentor
+## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS 
 
 Experienced ecommerce Developer with over 12 years of expertise in developing and integrating marketplace applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
 
