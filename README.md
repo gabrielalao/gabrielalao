@@ -30,7 +30,7 @@ UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
 
 Professional Experience
 Toptal LLC, Remote
-May 2021 - Present
+
 
 Site Maintenance and Updates:
 
@@ -125,7 +125,7 @@ Assist in resolving eCommerce-related issues.
 ## Senior Full-Stack Developer
 
 The Web Gurus LLC, Remote
-January 2014 - April 2018
+
 
 Developed and maintained the company’s main e-commerce platform using Drupal, Bigcommerce, React.js and Node.js, ensuring seamless user experience and high performance.
 
@@ -141,7 +141,7 @@ Integrates APIs for Drupal with USPS, Ebay, Shopify, Bigcommerce, PayPal, and St
 ## Bigcommerce Developer
 
 # Phone LCD Parts, Remote
-June 2010 - December 2013
+
 
 # Store Setup and Configuration:
 
