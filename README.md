@@ -8,7 +8,7 @@ Experienced Javascript Developer with over 12 years of expertise in developing a
 Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, Sass,  HTML5 with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
-## Experience and Skills
+## Experience & Skills
 
 - Software Project Management & Technical Team Leadership
 
@@ -28,7 +28,7 @@ Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Ang
 
 
 
-## Professional Experience:
+## Technical Contributions:
  
 Staff SWE at Walmart Global Tech - Arkansas
 
