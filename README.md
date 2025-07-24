@@ -8,23 +8,23 @@ Experienced Javascript Developer with over 12 years of expertise in developing a
 Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, Sass,  HTML5 with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
-## Technical Skills
+## Experience and Skills
 
-Technical Team Leadership
+- Software Project Management & Technical Team Leadership
 
-Languages: JavaScript, TypeScript, HTML, CSS
+- Languages: JavaScript, TypeScript, HTML, CSS
 
-Frameworks/Libraries: React Native, React.js, Node.js, Express.js, AngularJS, Vue.js, Next.js
+- Frameworks/Libraries: React Native, React.js, Node.js, Express.js, AngularJS, Vue.js, Next.js
 
-E-commerce Platforms: Bigcomerce, Shopify, WooCommerce & AEM
+- E-commerce Platforms: Bigcomerce, Shopify, WooCommerce & AEM
 
-API Integration: RESTful APIs, GraphQL, AWS Lambda, Payment Gateways (Authorize.net)
+- API Integration: RESTful APIs, GraphQL, AWS Lambda, Payment Gateways (Authorize.net)
 
-Databases: MySQL, PostgreSQL, MongoDB
+- Databases: MySQL, PostgreSQL, MongoDB
 
-Tools/Technologies: AWS (S3, Lambda, EC2), Docker, Git, Jira, Slack
+- Tools/Technologies: AWS (S3, Lambda, EC2), Docker, Git, Jira, Slack
 
-UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
+- UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
 
 
 
