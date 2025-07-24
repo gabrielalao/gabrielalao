@@ -1,22 +1,22 @@
 ##  Senior Fullstack Javascript Engineer
 
-## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS 
+## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS Expert
 
 Experienced Javascript Developer with over 12 years of expertise in developing and integrating web applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
 
 
-Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, GraphQL, Sass, Bigcommerce, HTML5, CSS3 and flutter; with a passion for continuous learning and staying up-to-date with emerging technologies.
+Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, Sass,  HTML5 with a passion for continuous learning and staying up-to-date with emerging technologies.
 
 
 ## Technical Skills
 
 Technical Team Leadership
 
-Languages: JavaScript, TypeScript, PHP, HTML, CSS
+Languages: JavaScript, TypeScript, HTML, CSS
 
-Frameworks/Libraries: Drupal, React.js, Node.js, Express.js, AngularJS, Vue.js, Next.js
+Frameworks/Libraries: React Native, React.js, Node.js, Express.js, AngularJS, Vue.js, Next.js
 
-E-commerce Platforms: Bigcomerce, Shopify, WooCommerce, Magento
+E-commerce Platforms: Bigcomerce, Shopify, WooCommerce & AEM
 
 API Integration: RESTful APIs, GraphQL, AWS Lambda, Payment Gateways (Authorize.net)
 
@@ -28,244 +28,108 @@ UI/UX: Figma, Responsive Design, Material UI, Tailwind CSS
 
 
 
-## Work History :
+## Professional Experience:
+ 
+Staff SWE at Walmart Global Tech - Arkansas
 
-Professional Experience
-Toptal LLC, Remote
+Role Overview: 
 
+As a Staff Software Engineer at Walmart, I design, develop, and implement large-scale digital solutions that tackle complex business challenges and support enterprise-wide initiatives, driving associate productivity and efficiency.
 
-Site Maintenance and Updates:
+Key Responsibilities:
 
-Regularly update Drupal core and contributed modules.
+- Solution Architecture and Development: I design and implement scalable, fault-tolerant architectures for mission-critical systems, leveraging expertise in microservices, containerization, and cloud-based technologies to ensure high availability and performance.
+- Technical Leadership and Mentorship: I provide technical guidance, mentorship, and coaching to junior engineers, fostering technical growth and expertise in areas such as software development, architecture, and DevOps practices.
+- Complex Problem-Solving: I analyze and resolve intricate technical problems, identifying root causes, assessing risks, and developing strategic solutions that meet business requirements and drive technical innovation.
+- Cross-Functional Collaboration: I work closely with product management, engineering teams, and stakeholders to design and deliver integrated technology solutions that enhance customer experiences, drive business outcomes, and align with enterprise goals.
+- Performance Optimization and Engineering: I optimize distributed systems for high performance, scalability, and reliability, utilizing expertise in performance analysis, benchmarking, and tuning to ensure efficient system operation and minimize latency.
 
-Monitor and fix security vulnerabilities.
 
-Theme Development:
+Full Stack Javascript Engineer at Total - Delaware
 
-Customize or create themes to match branding guidelines.
+Role Overview:
 
-Implement responsive design for mobile compatibility.
+As a Full Stack Engineer at Total, I designed, developed, and deployed scalable web applications and enterprise software solutions, leveraging expertise in front-end and back-end technologies to drive digital transformation and enhance business operations.
 
-Module Development:
+Key Responsibilities:
 
-Develop custom modules to extend functionality.
+- Full Stack Development: I architected and implemented responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React, Angular, or Vue.js, while also developing RESTful APIs and microservices using Node.js, Java, or Python.
+- Front-End Engineering: I crafted user-centric interfaces, focusing on usability, accessibility, and performance optimization, utilizing expertise in UI/UX design principles, CSS preprocessors, and front-end build tools like Webpack or Gulp.
+- Back-End Development: I designed and implemented server-side logic, database integration, and API connectivity, leveraging expertise in languages like Java, Python, or Node.js, and frameworks like Spring Boot, Django, or Express.js.
+- Database Management: I designed and optimized database schemas, queries, and indexing strategies for relational databases like MySQL or PostgreSQL, and NoSQL databases like MongoDB or Cassandra.
+- DevOps and Deployment: I collaborated on CI/CD pipeline development, automated testing, and deployment scripts, utilizing tools like Jenkins, Docker, or Kubernetes to ensure seamless integration and delivery of software solutions.
 
-Modify existing modules to meet specific business needs.
 
-Performance Optimization:
 
-Optimize website performance by implementing caching strategies.
+## Senior Full Stack JavaScript Developer at The Web Gurus - New Jersey
 
-Analyze and improve site load times.
+Role Overview:
 
-Bug Fixing:
+As a Senior Full Stack JavaScript Developer at The Web Gurus LLC, I designed, developed, and deployed scalable web applications, leveraging expertise in JavaScript, front-end frameworks, and back-end technologies to drive innovative digital solutions.
 
-Identify, troubleshoot, and resolve bugs and issues reported by users.
+Key Responsibilities:
 
-Test and validate fixes in various environments.
+- Full Stack JavaScript Development: I architected and implemented complex web applications using JavaScript, Node.js, and frameworks like React, Angular, or Vue.js, while also developing RESTful APIs and microservices.
+- Front-End Engineering: I crafted responsive, user-centric interfaces using HTML5, CSS3, and JavaScript, focusing on performance optimization, accessibility, and UI/UX design principles.
+- Back-End Development: I designed and implemented server-side logic, database integration, and API connectivity using Node.js, Express.js, and databases like MongoDB or PostgreSQL.
+- Technical Leadership: I mentored junior developers, provided technical guidance, and contributed to code reviews, ensuring high-quality code and adherence to best practices.
+Collaboration and Problem-Solving: I worked closely with cross-functional teams to identify and resolve complex technical issues, drive project timelines, and deliver high-impact digital solutions.
 
-Database Management:
 
-Manage and optimize the database for performance.
+## Webmaster at AEIS - New Jersey
 
-Implement backup and recovery strategies.
+Role Overview:
 
-Integrations:
+As a Webmaster at AEIS, I managed, maintained, and enhanced the organization's web presence, ensuring seamless user experience, website functionality, and content accuracy.
 
-Integrate third-party services (payment gateways, shipping APIs, CRM).
+Key Responsibilities:
 
-Ensure smooth data flow between systems.
+- Website Management: I oversaw the design, development, and maintenance of the website, ensuring timely updates, content accuracy, and adherence to brand guidelines.
+- Content Updates: I created, edited, and published web content, including text, images, and multimedia elements, to engage users and convey organizational information.
+- Technical Support: I troubleshot and resolved technical issues, ensured website uptime, and implemented security measures to protect against cyber threats.
+- Search Engine Optimization (SEO): I optimized website content and structure to improve search engine rankings, drive organic traffic, and enhance online visibility.
+- Analytics and Reporting: I monitored website performance using analytics tools, tracked user behavior, and provided insights to inform content and design decisions.
 
-User Management:
 
-Manage user roles and permissions.
 
-Create and maintain user accounts for staff and customers.
+# Ecommerce Developer at Zulco International, New York - 
 
-Content Management:
+Role Overview:
 
-Assist in content updates and site maintenance.
+As an Ecommerce Developer at Zulco International, I designed, developed, and implemented scalable ecommerce solutions, leveraging expertise in ecommerce platforms, payment gateways, and digital marketing to drive online sales and revenue growth.
 
-Collaborate with content teams to ensure content is properly formatted.
+Key Responsibilities:
 
-SEO Implementation:
+- Ecommerce Platform Development: I customized and extended ecommerce platforms like Magento, Shopify, or WooCommerce, ensuring seamless integration with third-party services and APIs.
+- Payment Gateway Integration: I integrated payment gateways like PayPal, Stripe, or Authorize.net, ensuring secure and efficient transaction processing.
+- Digital Marketing Integration: I implemented digital marketing solutions like email marketing, social media integration, and product recommendation engines to enhance customer engagement and conversion rates.
+- Custom Module Development: I developed custom modules and plugins to extend ecommerce platform functionality, improve user experience, and meet business requirements.
+- Performance Optimization: I optimized ecommerce website performance, ensuring fast page loads, efficient checkout processes, and seamless user experience.
 
-Implement SEO best practices in the site structure and content.
 
-Use modules to manage metadata, sitemaps, and redirects.
+# Full Stack Engineer at Phone LCD Parts - New Jersey -
 
-Testing and Quality Assurance:
+Role Overview:
 
-Conduct functional and regression testing of new features.
+As a Full Stack Engineer at Phone LCD Parts, I designed, developed, and deployed scalable web applications, leveraging expertise in front-end and back-end technologies to drive business growth and enhance customer experience.
 
-Collaborate with QA teams to ensure high-quality releases.
+Key Responsibilities:
 
-Collaboration:
-
-Work with designers, product managers, and other developers in Agile environments.
-
-Participate in daily stand-ups and sprint planning meetings.
-
-Documentation:
-
-Write and maintain technical documentation for custom developments.
-
-Document processes and workflows for future reference.
-
-Monitoring and Analytics:
-
-Set up and monitor web analytics tools to track user behavior.
-
-Analyze data to inform development and marketing strategies.
-
-Customer Support:
-
-Provide technical support for end-users as needed.
-
-Assist in resolving eCommerce-related issues.
-
-## Senior Full-Stack Developer
-
-The Web Gurus LLC, Remote
-
-
-Developed and maintained the company’s main e-commerce platform using Drupal, Bigcommerce, React.js and Node.js, ensuring seamless user experience and high performance.
-
-Implemented custom features and integrations, including loyalty programs, product recommendation engines, and advanced search functionalities.
-
-Optimized front-end and back-end code for speed and scalability, resulting in a 30% increase in page load times.
-
-Coordinated with cross-functional teams to design and implement new features, track progress, and resolve issues.
-
-Integrates APIs for Drupal with USPS, Ebay, Shopify, Bigcommerce, PayPal, and Stripe.
-
-
-## Bigcommerce Developer
-
-# Phone LCD Parts, Remote
-
-
-# Store Setup and Configuration:
-
-Set up new BigCommerce stores, including initial configuration and settings.
-
-Configure payment gateways, shipping options, and tax settings.
-
-Theme Development and Customization:
-
-Customize existing themes to align with branding and design guidelines.
-
-Develop custom themes using Stencil and Handlebars for unique layouts.
-
-App Integration:
-
-Integrate third-party applications and services (e.g., CRM, ERP, email marketing).
-
-Ensure seamless functionality between BigCommerce and integrated systems.
-
-Performance Optimization:
-
-Optimize website performance and loading times.
-
-Implement best practices for caching and image optimization.
-
-Troubleshooting and Bug Fixing:
-
-Identify and resolve bugs or issues reported by users.
-
-Perform regular testing to ensure site functionality.
-
-Content Management:
-
-Assist with the creation and management of product listings, categories, and pages.
-
-Update content as needed to reflect promotions or changes in inventory.
-
-SEO Implementation:
-
-Optimize site structure, metadata, and URLs for search engine visibility.
-
-Implement SEO best practices within the platform.
-
-Analytics and Reporting:
-
-Set up and analyze web analytics tools (e.g., Google Analytics) to track performance.
-
-Create reports on sales, user behavior, and other key metrics.
-
-User Management:
-
-Manage user roles and permissions within the BigCommerce dashboard.
-
-Handle customer account issues and inquiries.
-
-Custom Development:
-
-Develop custom scripts and features to enhance store functionality.
-
-Use the BigCommerce API to create custom solutions.
-
-Collaboration:
-
-Work with designers, marketers, and product teams to implement new features.
-
-Participate in team meetings and Agile sprints for project planning.
-
-Documentation:
-
-Document development processes, integrations, and customizations.
-
-Maintain guides for team members and future reference.
-
-Customer Support:
-
-Provide technical support for clients and users.
-
-Assist with troubleshooting customer-related issues.
-
-Compliance and Security:
-
-Ensure that the store complies with legal requirements (e.g., GDPR).
-
-Monitor security and implement measures to protect customer data.
-
-Training and Support:
-
-Train staff or clients on using BigCommerce features.
-
-Provide ongoing support and guidance for users.
+- ull Stack Development: I architected and implemented responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React or Angular, while also developing RESTful APIs and microservices using Node.js or other server-side technologies.
+- Ecommerce Integration: I integrated ecommerce platforms or developed custom ecommerce solutions to enable seamless online transactions and improve customer engagement.
+- Database Management: I designed and optimized database schemas, queries, and indexing strategies for relational databases like MySQL or PostgreSQL, and NoSQL databases like MongoDB.
+- API Development: I developed and maintained APIs to integrate with third-party services, enable data exchange, and support business intelligence.
+- Performance Optimization: I optimized web application performance, ensuring fast page loads, efficient data processing, and seamless user experience.
 
 
 
 ## Education
 
-Master of Technology - MTech, AI & Cyber Security - 2023-2025
+Master of Technology - MTech, AI & Cyber Security - 2023-2026
 Turun yliopisto - University of Turku, Finland. 
 
 Bachelor of Science in Computer Science - 2002-2008
 University of Ilorin, Nigeria.
-
-
-
-
-## Projects
-
-Custom Bigcommerce  App for Upsell Recommendations
-
-Developed a Shopify app that dynamically suggests upsell products at checkout, increasing average order value by 20%.
-
-Implemented an intuitive admin panel for merchants to configure recommendations and track performance analytics.
-
-Integrate APIs for USPS, Ebay, Shopify, Bigcommerce, PayPal, Stripe, Affirm and Cashapp
-
-Marketplace Integration for Phone LCD Parts
-Led the integration of a multi-vendor marketplace platform, enabling seamless onboarding and management of third-party sellers.
-Enhanced the platform’s API to support advanced search, filtering, and sorting capabilities.
-Integrate APIs for USPS, Ebay, Shopify, Bigcommerce, PayPal, Stripe, Affirm and Cashapp
-Real-Time Inventory Management System
-Built a real-time inventory management system for a large retailer, integrating with their existing e-commerce platform and warehouse management system.
-Achieved a 50% reduction in stock discrepancies and improved order fulfillment accuracy.
-Integrate APIs for Quickbooks
 
 
 
