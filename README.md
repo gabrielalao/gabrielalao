@@ -1,4 +1,4 @@
-##  Javascript Engineer
+##  Senior Fullstack Javascript Engineer
 
 ## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS 
 
@@ -9,6 +9,8 @@ Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Ang
 
 
 ## Technical Skills
+
+Technical Team Leadership
 
 Languages: JavaScript, TypeScript, PHP, HTML, CSS
 
