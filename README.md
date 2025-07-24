@@ -9,7 +9,7 @@ Highly skilled Full Stack JavaScript Engineer with 12+ years of experience in de
   
 # Proven track record of:
 
-- Building robust e-commerce solutions
+- Building robust web and mobile applications
 - Leading projects and streamlining operations
 - Enhancing customer experiences through performance optimization and API integration
 - Passionate about staying up-to-date with emerging technologies and continuously improving skills. Seeking a challenging role that leverages my expertise in full-stack development and modern web technologies.
