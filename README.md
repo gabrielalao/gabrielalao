@@ -1,12 +1,18 @@
-##  Fullstack Javascript Engineer
+##  Full Stack JavaScript Engineer
 
-## React, Next.js,  React Native, Angular, Vue, Node.js & Express.JS Expert
+Highly skilled Full Stack JavaScript Engineer with 12+ years of experience in developing and integrating complex web applications. Expertise in modern web technologies, including:
 
-Experienced Javascript Developer with over 12 years of expertise in developing and integrating web applications. Proficient in modern web technologies and platforms, with a strong background in full-stack development, API integration, and performance optimization. Demonstrated ability to lead projects, streamline operations, and enhance customer experiences. Seeking a role to leverage my skills in building robust e-commerce solutions.
+- Front-end: React, Next.js, React Native, Angular, Vue
+- Back-end: Node.js, Express.js
+- Languages: JavaScript, TypeScript
+- Technologies: HTML5, CSS3, Sass
+  
+# Proven track record of:
 
-
-Skilled in JavaScript, HTML, CSS, TypeScript, React, Next.js,  React Native, Angular, Node.js, Sass,  HTML5 with a passion for continuous learning and staying up-to-date with emerging technologies.
-
+- Building robust e-commerce solutions
+- Leading projects and streamlining operations
+- Enhancing customer experiences through performance optimization and API integration
+- Passionate about staying up-to-date with emerging technologies and continuously improving skills. Seeking a challenging role that leverages my expertise in full-stack development and modern web technologies.
 
 ## Experience & Skills
 
