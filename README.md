@@ -121,7 +121,7 @@ As a Full Stack Engineer at Phone LCD Parts, I designed, developed, and deployed
 
 Key Responsibilities:
 
-- ull Stack Development: I architected and implemented responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React or Angular, while also developing RESTful APIs and microservices using Node.js or other server-side technologies.
+- Full Stack Development: I architected and implemented responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React or Angular, while also developing RESTful APIs and microservices using Node.js or other server-side technologies.
 - Ecommerce Integration: I integrated ecommerce platforms or developed custom ecommerce solutions to enable seamless online transactions and improve customer engagement.
 - Database Management: I designed and optimized database schemas, queries, and indexing strategies for relational databases like MySQL or PostgreSQL, and NoSQL databases like MongoDB.
 - API Development: I developed and maintained APIs to integrate with third-party services, enable data exchange, and support business intelligence.
