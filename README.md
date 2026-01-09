@@ -34,25 +34,6 @@ Highly skilled Full Stack JavaScript Engineer with 12+ years of experience in de
 
 
 
-## Technical Contributions:
- 
-Staff SWE at Walmart Global Tech - Arkansas
-
-Role Overview: 
-
-As a Staff Software Engineer at Walmart, I design, develop, and implement large-scale digital solutions that tackle complex business challenges and support enterprise-wide initiatives, driving associate productivity and efficiency.
-
-Key Responsibilities:
-
-- Solution Architecture and Development: I design and implement scalable, fault-tolerant architectures for mission-critical systems, leveraging expertise in microservices, containerization, and cloud-based technologies to ensure high availability and performance.
-- Technical Leadership and Mentorship: I provide technical guidance, mentorship, and coaching to junior engineers, fostering technical growth and expertise in areas such as software development, architecture, and DevOps practices.
-- Complex Problem-Solving: I analyze and resolve intricate technical problems, identifying root causes, assessing risks, and developing strategic solutions that meet business requirements and drive technical innovation.
-- Cross-Functional Collaboration: I work closely with product management, engineering teams, and stakeholders to design and deliver integrated technology solutions that enhance customer experiences, drive business outcomes, and align with enterprise goals.
-- Performance Optimization and Engineering: I optimize distributed systems for high performance, scalability, and reliability, utilizing expertise in performance analysis, benchmarking, and tuning to ensure efficient system operation and minimize latency.
-
-
-Full Stack Javascript Engineer at Total - Delaware
-
 Role Overview:
 
 As a Full Stack Engineer at Total, I designed, developed, and deployed scalable web applications and enterprise software solutions, leveraging expertise in front-end and back-end technologies to drive digital transformation and enhance business operations.
