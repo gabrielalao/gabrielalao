@@ -1,6 +1,6 @@
 ##  Full Stack JavaScript Engineer
 
-Highly skilled Full Stack JavaScript Engineer with 12+ years of experience in developing and integrating complex web applications. Expertise in modern web technologies, including:
+Highly skilled Full Stack JavaScript Engineer with 12+ years of experience in developing and integrating complex web and mobile applications. Expertise in modern web technologies, including:
 
 - Front-end: React, Next.js, React Native, Angular, Vue
 - Back-end: Node.js, Express.js
